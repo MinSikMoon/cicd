@@ -47,3 +47,10 @@
 ![image](https://user-images.githubusercontent.com/21155325/58254706-4c520e80-7da6-11e9-9436-2e682c9988a6.png)
 - build.xml을 compile을 타겟으로 실행하겠다는 의미.
 ![image](https://user-images.githubusercontent.com/21155325/58255769-ace24b00-7da8-11e9-8c07-3ecf54d64080.png)
+
+#### 1.6. post-build actions : 이 프로젝트의 빌드 수행되면 다음에는 뭘하지?
+- 현재 프로젝트의 핵심인 build (행동)이 끝나면 또 어떤 행동할 것인지 정하는 것이다.
+- 보통 여러 프로젝트끼리 체인처럼 엮고, 선후관계를 정하는 걸 많이한다.
+- 그 외에도 선택할수 있는 것들이 많은 데 한번 열어보길 바란다.
+- 다음에 더 정리해야지.
+![image](https://user-images.githubusercontent.com/21155325/58256102-5295ba00-7da9-11e9-9d3a-5b644f4db9a4.png)
